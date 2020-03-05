@@ -1,0 +1,19 @@
+.first {
+	width: 100%;
+	height: 150px;
+	background-color: #d5d6db;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+.second {
+	text-align: center;
+}
+
+.third {
+	width: 100%;
+	height: 1200px;
+	background-color: #d5d6db;
+	font-family: sans-serif;
+}
